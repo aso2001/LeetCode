@@ -16,7 +16,7 @@ class Solution:
         return res
     
     
-    def letterCombinations(self, digits: str) -> List[str]:
+    def letterCombinations2(self, digits: str) -> List[str]:
 
         if digits == "": return []
         ld = len(digits)
