@@ -2,14 +2,8 @@ class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
         d = defaultdict(list)
         for a, b, c in roads:
-            if a not in d:
-                d[a] = [(b, c)]
-            else:
-                d[a].append((b, c))
-            if b not in d:
-                d[b] = [(a, c)]
-            else:
-                d[b].append((a, c))
+            d[a].append((b, c))
+            d[b].append((a, c))
 
         visited = [False]*n
         res = []
