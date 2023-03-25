@@ -1,16 +1,14 @@
 class Solution:
     def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
         res = []
-        s1 = sum(rolls)
-        n1 = len(rolls)
-        ntot = n1 + n
-        sm = mean * ntot - s1
-        am = sm / (ntot - n1)
-        ai = sm // (ntot - n1)
-        if am > 6 or am < 1:
+        m = len(rolls)
+        nsum = mean * (m + n) - sum(rolls)
+        an = nsum / n
+        ai = nsum // n
+        if an > 6 or an < 1:
             return res
-        x = ai*(ntot - n1) + ntot - n1 - sm
+        x = ai*n + n - nsum
         res = [ai]*x
-        res2 = [ai + 1]*(ntot - n1 - x)
+        res2 = [ai + 1]*(n - x)
         res.extend(res2) 
         return res
