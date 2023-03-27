@@ -1,6 +1,20 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-
+        # DP Solution
+        for i in range(len(grid) - 1, -1, -1):
+            for j in range(len(grid[0]) - 1, -1, -1):
+                if i == len(grid) - 1:
+                    if j < len(grid[0]) - 1:
+                        grid[i][j] += grid[i][j + 1]
+                elif j == len(grid[0]) - 1:
+                    grid[i][j] += grid[i + 1][j]
+                else:
+                    grid[i][j] += min(grid[i + 1][j], grid[i][j + 1])
+        return grid[0][0]
+    
+    
+    def minPathSum2(self, grid: List[List[int]]) -> int:
+        # Recursive solution
         dp = [[math.inf]*len(grid[0]) for _ in range(len(grid))]
 
         def dfs(i, j):
