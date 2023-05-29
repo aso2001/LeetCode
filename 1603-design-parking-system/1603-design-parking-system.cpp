@@ -2,14 +2,14 @@ class ParkingSystem {
 public:
     int arr[3];
     ParkingSystem(int big, int medium, int small) {
-        arr[0] = big;
-        arr[1] = medium;
-        arr[2] = small;
+        this->arr[0] = big;
+        this->arr[1] = medium;
+        this->arr[2] = small;
     }
     
     bool addCar(int carType) {
-        if (!arr[carType - 1]) return false;
-        arr[carType - 1]--;
+        if (!this->arr[carType - 1]) return false;
+        this->arr[carType - 1]--;
         return true;
     }
 };
