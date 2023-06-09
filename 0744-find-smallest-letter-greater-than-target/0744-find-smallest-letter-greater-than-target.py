@@ -6,7 +6,7 @@ class Solution:
             if letters[mid] > target:
                 R = mid
             else:
-               L  = mid + 1
+                L = mid + 1
         return letters[R] if letters[R] > target else letters[0]
 
 
