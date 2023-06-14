@@ -24,7 +24,7 @@ class Solution:
         return mn
 
     
-    def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
+    def getMinimumDifference2(self, root: Optional[TreeNode]) -> int:
         # O(n) space and time solution
         res = []
         def inOrder(root):
