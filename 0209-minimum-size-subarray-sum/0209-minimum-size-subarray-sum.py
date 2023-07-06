@@ -1,6 +1,20 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+        L, R, res, ss = 0, 0, len(nums) + 1, nums[0]
+        while R <= len(nums) - 1:
+            if ss < target:
+                if R < len(nums) - 1:
+                    R += 1
+                    ss += nums[R]
+            else:
+                res = min(res, R - L + 1)
+                ss -= nums[L]
+                L += 1
+            if R == len(nums) - 1 and ss < target:
+                break
+        return res if res < len(nums) + 1 else 0
 
+    def minSubArrayLen2(self, target: int, nums: List[int]) -> int:
         tsum, i = 0, 0
         # Find first subarray at the beginning and it's window (minw)
         while tsum < target and i < len(nums):
