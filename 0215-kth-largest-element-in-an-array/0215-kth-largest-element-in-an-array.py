@@ -1,4 +1,15 @@
 class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        import heapq
+        hh = []
+
+        for n in nums:
+            heapq.heappush(hh, -n)
+        for i in range(k):
+            res = heapq.heappop(hh)
+        return -res
+    
+    
     def findKthLargest2(self, nums: List[int], k: int) -> int:
         # MinHeap Solution O(n + k*log(n))
         import heapq
@@ -10,7 +21,7 @@ class Solution:
         return -res
 
     
-    def findKthLargest(self, nums: List[int], k: int) -> int:
+    def findKthLargest1(self, nums: List[int], k: int) -> int:
         # Solution using Quick Select Algorithm O(n) time on average
         k = len(nums) - k
 
