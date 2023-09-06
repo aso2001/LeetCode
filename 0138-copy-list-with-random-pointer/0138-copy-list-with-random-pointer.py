@@ -13,24 +13,21 @@ class Solution:
         if not head: return None
         dd = {}
         cur = head
-        new = Node(cur.val)
-        res = new
-        dd[cur] = new
-        cur = cur.next
-        prev = new
         while cur:
             new = Node(cur.val)
             dd[cur] = new
-            prev.next = new
-            prev = new
             cur = cur.next
 
         cur = head
-        new = res
         while cur:
             rnd = cur.random
+            if cur.next:
+                dd[cur].next = dd[cur.next]
+            else:
+                dd[cur].next = None
             if rnd:
-                new.random = dd[rnd]
+                dd[cur].random = dd[rnd]
+            else:
+                dd[cur].random = None
             cur = cur.next
-            new = new.next
-        return res
+        return dd[head]
