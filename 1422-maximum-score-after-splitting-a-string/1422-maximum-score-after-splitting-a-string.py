@@ -10,5 +10,5 @@ class Solution:
             pst[i] = pst[i + 1] + (1 if s[i] == '1' else 0)
         res = 0
         for i in range(len(s) - 1):
-            res = max(res, pfx[i] + (0 if i == len(s) - 1 else pst[i + 1]))
+            res = max(res, pfx[i] + pst[i + 1])
         return res
