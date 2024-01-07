@@ -7,5 +7,6 @@ class Solution:
             for j in range(i):
                 diff = nums[i] - nums[j]
                 dp[i][diff] += dp[j][diff] + 1
-                res += dp[j][diff] + 1
-        return res - (n*(n-1)) // 2
+                #res += dp[j][diff] + 1
+                res += dp[j][diff]
+        return res # - (n*(n-1)) // 2
