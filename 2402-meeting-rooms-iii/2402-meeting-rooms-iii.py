@@ -1,23 +1,21 @@
 class Solution:
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
         meetings.sort()
-        rooms = [0]*n
-        cnt = [0]*n
-        done = [0]*len(meetings)
-        q = []
+        q, cnt, rooms = [], [0]*n, [0]*n
 
         for j in range(len(meetings)):
+            done = False
             for i in range(len(rooms)):
-                if not done[j] and meetings[j][0] >= rooms[i]:
+                if not done and meetings[j][0] >= rooms[i]:
+                    done = True
                     cnt[i] += 1
                     rooms[i] = meetings[j][1]
-                    done[j] = 1
                     if q:
-                        tt,rr = heapq.heappop(q)
-                        if rr != i:
-                            heapq.heappush(q, (tt, rr))
+                        nxt, room = heapq.heappop(q)
+                        if room != i:
+                            heapq.heappush(q, (nxt, room))
                     heapq.heappush(q, (meetings[j][1], i))
-            if not done[j]:
+            if not done:
                 nxt, room = heapq.heappop(q)
                 cnt[room] += 1
                 if nxt <= meetings[j][0]:
@@ -31,4 +29,4 @@ class Solution:
             if cnt[i] > mx:
                 mx = cnt[i]
                 res = i
-        return res 
+        return res
