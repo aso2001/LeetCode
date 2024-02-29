@@ -6,33 +6,21 @@
 #         self.right = right
 class Solution:
     def isEvenOddTree(self, root: Optional[TreeNode]) -> bool:
-        if not root.val % 2: return False
-        q = deque()
-        nxt = deque()
-        lev = 0
-        q.append(root)
-        while True:
-            while q:
+        q = deque([root])
+        lev = 1
+        while q:
+            prev = -math.inf if lev % 2 else math.inf
+            length = len(q)
+            for _ in range(length):
                 cur = q.popleft()
+                if lev % 2 and (cur.val <= prev or not cur.val % 2):
+                    return False
+                elif not lev % 2 and (cur.val >= prev or cur.val % 2):
+                    return False
+                prev = cur.val
                 if cur.left:
-                    nxt.append(cur.left)
+                    q.append(cur.left)
                 if cur.right:
-                    nxt.append(cur.right)
-            if not nxt:
-                break
-            prev = math.inf
-            if lev % 2:
-                prev -= prev
-                for n in nxt:
-                    if n.val <= prev or not n.val % 2:
-                        return False
-                    prev = n.val
-            else:
-                for n in nxt:
-                    if n.val >= prev or n.val % 2:
-                        return False
-                    prev = n.val
-            q = nxt.copy()
-            nxt = deque()
+                    q.append(cur.right)
             lev += 1
         return True
