@@ -2,9 +2,12 @@ class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
         pos, neg = [], []
         for n in nums:
-            if n > 0: pos.append(n)
-            else: neg.append(n)
-        i = 0
-        for (p,n) in zip(pos, neg):
-            nums[i], nums[i + 1], i = p, n, i + 2
-        return nums
+            if n > 0:
+                pos.append(n)
+            else:
+                neg.append(n)
+        res = []
+        for i in range(len(nums)//2):
+            res.append(pos[i])
+            res.append(neg[i])
+        return res
