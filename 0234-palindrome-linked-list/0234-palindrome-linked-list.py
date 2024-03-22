@@ -5,6 +5,17 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        cur = head
+        res = []
+        while cur:
+            res.append(cur.val)
+            cur = cur.next
+        for i in range(len(res)//2):
+            if res[i] != res[len(res) - i - 1]:
+                return False
+        return True
+
+    def isPalindrome2(self, head: Optional[ListNode]) -> bool:
         # Find middle
         slow, fast = head, head
         while fast and fast.next:
