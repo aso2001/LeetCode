@@ -1,5 +1,30 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
+        moves = [(-1,0),(1,0),(0,-1),(0,1)]
+        ones = []
+        q = deque()
+
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j] == '1':
+                    ones.append((i, j))
+
+        cnt = 0
+        for cur in ones:
+            if grid[cur[0]][cur[1]] == '0': continue
+            q.append(cur)
+            while q:
+                cur = q.popleft()
+                grid[cur[0]][cur[1]] = '0'
+                for m in moves:
+                    if cur[0] + m[0] >= 0 and cur[0] + m[0] < len(grid) and cur[1] + m[1] >= 0 and cur[1] + m[1] < len(grid[0]) and grid[cur[0] + m[0]][cur[1] + m[1]] == '1':
+                        q.append((cur[0] + m[0], cur[1] + m[1]))
+                        grid[cur[0] + m[0]][cur[1] + m[1]] = '0'
+            cnt += 1
+        return cnt
+    
+
+    def numIslands3(self, grid: List[List[str]]) -> int:
 
         res = 0
 
