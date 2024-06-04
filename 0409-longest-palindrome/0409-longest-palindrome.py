@@ -6,8 +6,8 @@ class Solution:
         res, flag = 0, 0
         for d in dd:
             if dd[d]%2 and flag == 0:
-                res += 1
+                res += dd[d]
                 flag = 1
-            if dd[d] > 1:
+            elif dd[d] > 1:
                 res += 2*(dd[d]//2)
         return res
