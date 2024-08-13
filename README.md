@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/aso2001/LeetCode/tree/master/0040-combination-sum-ii) |
 | [1511-count-number-of-teams](https://github.com/aso2001/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aso2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/aso2001/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
