@@ -23,4 +23,4 @@ class Solution:
                 cur.next = None
                 cur = x
             res.append(tmp)
-        return res   
+        return res       
