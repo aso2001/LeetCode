@@ -1,6 +1,5 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-
         nums = list(map(str, nums))
 
         def cmp(a, b):
