@@ -213,5 +213,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/aso2001/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/aso2001/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
