@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aso2001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/aso2001/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2868-continuous-subarrays](https://github.com/aso2001/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aso2001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aso2001/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/aso2001/LeetCode/tree/master/3427-special-array-ii) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aso2001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/aso2001/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/aso2001/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -337,10 +339,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
+| [2868-continuous-subarrays](https://github.com/aso2001/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/aso2001/LeetCode/tree/master/0859-design-circular-deque) |
+| [2868-continuous-subarrays](https://github.com/aso2001/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -350,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0567-permutation-in-string](https://github.com/aso2001/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aso2001/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2868-continuous-subarrays](https://github.com/aso2001/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aso2001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aso2001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Eulerian Circuit
@@ -360,4 +365,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aso2001/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/aso2001/LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
