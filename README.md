@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/aso2001/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/aso2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aso2001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/aso2001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aso2001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1511-count-number-of-teams](https://github.com/aso2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aso2001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/aso2001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/aso2001/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/aso2001/LeetCode/tree/master/0890-lemonade-change) |
+| [1025-minimum-cost-for-tickets](https://github.com/aso2001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/aso2001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1325-path-with-maximum-probability](https://github.com/aso2001/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
