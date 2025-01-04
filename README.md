@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/aso2001/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aso2001/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/aso2001/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aso2001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/aso2001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aso2001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/aso2001/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aso2001/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aso2001/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aso2001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aso2001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aso2001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aso2001/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aso2001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aso2001/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aso2001/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aso2001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/aso2001/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aso2001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aso2001/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aso2001/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/aso2001/LeetCode/tree/master/3427-special-array-ii) |
