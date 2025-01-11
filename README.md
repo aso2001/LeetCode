@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/aso2001/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aso2001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/aso2001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/aso2001/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aso2001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aso2001/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/aso2001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/aso2001/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aso2001/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1502-construct-k-palindrome-strings](https://github.com/aso2001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/aso2001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aso2001/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/aso2001/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aso2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/aso2001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/aso2001/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aso2001/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aso2001/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/aso2001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aso2001/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
