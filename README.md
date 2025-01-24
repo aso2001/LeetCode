@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/aso2001/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/aso2001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aso2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/aso2001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aso2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/aso2001/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aso2001/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/aso2001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aso2001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -462,4 +465,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/aso2001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aso2001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aso2001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/aso2001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
