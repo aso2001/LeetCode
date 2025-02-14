@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/aso2001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1325-path-with-maximum-probability](https://github.com/aso2001/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aso2001/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/aso2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/aso2001/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aso2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/aso2001/LeetCode/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aso2001/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/aso2001/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aso2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -301,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/aso2001/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/aso2001/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/aso2001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aso2001/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aso2001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -427,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aso2001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/aso2001/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aso2001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
