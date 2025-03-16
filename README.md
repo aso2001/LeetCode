@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aso2001/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/aso2001/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aso2001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/aso2001/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/aso2001/LeetCode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aso2001/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aso2001/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aso2001/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/aso2001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aso2001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/aso2001/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/aso2001/LeetCode/tree/master/2690-house-robber-iv) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aso2001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aso2001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
