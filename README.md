@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aso2001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/aso2001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aso2001/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aso2001/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aso2001/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/aso2001/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/aso2001/LeetCode/tree/master/3429-special-array-i) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/aso2001/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aso2001/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/aso2001/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aso2001/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aso2001/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aso2001/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/aso2001/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aso2001/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aso2001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path
 |  |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aso2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aso2001/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aso2001/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
