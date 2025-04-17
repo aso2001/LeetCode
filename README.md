@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/aso2001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/aso2001/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aso2001/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aso2001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/aso2001/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
