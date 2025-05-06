@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/aso2001/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aso2001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
+| [2048-build-array-from-permutation](https://github.com/aso2001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aso2001/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aso2001/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/aso2001/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aso2001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/aso2001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/aso2001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aso2001/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/aso2001/LeetCode/tree/master/2411-spiral-matrix-iv) |
