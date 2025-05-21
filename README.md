@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aso2001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aso2001/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/aso2001/LeetCode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/aso2001/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/aso2001/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/aso2001/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/aso2001/LeetCode/tree/master/0567-permutation-in-string) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/aso2001/LeetCode/tree/master/0854-making-a-large-island) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aso2001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
