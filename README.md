@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/aso2001/LeetCode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aso2001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/aso2001/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/aso2001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aso2001/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/aso2001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aso2001/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aso2001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -650,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/aso2001/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aso2001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aso2001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
