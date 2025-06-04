@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/aso2001/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aso2001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aso2001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aso2001/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aso2001/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/aso2001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/aso2001/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/aso2001/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aso2001/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aso2001/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aso2001/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aso2001/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -640,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aso2001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aso2001/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aso2001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
