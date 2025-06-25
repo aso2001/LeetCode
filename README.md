@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/aso2001/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/aso2001/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aso2001/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aso2001/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aso2001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/aso2001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aso2001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/aso2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aso2001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/aso2001/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aso2001/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/aso2001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aso2001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
