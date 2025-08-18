@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/aso2001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/aso2001/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aso2001/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/aso2001/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aso2001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aso2001/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aso2001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0679-24-game](https://github.com/aso2001/LeetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/aso2001/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aso2001/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aso2001/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/aso2001/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/aso2001/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0679-24-game](https://github.com/aso2001/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/aso2001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/aso2001/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/aso2001/LeetCode/tree/master/0867-new-21-game) |
