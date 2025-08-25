@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/aso2001/LeetCode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/aso2001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aso2001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/aso2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/aso2001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/aso2001/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -729,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aso2001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/aso2001/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/aso2001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
