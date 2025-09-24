@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/aso2001/LeetCode/tree/master/0038-count-and-say) |
+| [0166-fraction-to-recurring-decimal](https://github.com/aso2001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/aso2001/LeetCode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aso2001/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/aso2001/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/aso2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aso2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/aso2001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/aso2001/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/aso2001/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/aso2001/LeetCode/tree/master/0567-permutation-in-string) |
@@ -702,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/aso2001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/aso2001/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aso2001/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aso2001/LeetCode/tree/master/0264-ugly-number-ii) |
