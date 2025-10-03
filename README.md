@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/aso2001/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/aso2001/LeetCode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/aso2001/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/aso2001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/aso2001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/aso2001/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/aso2001/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/aso2001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aso2001/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aso2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/aso2001/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -909,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/aso2001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/aso2001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aso2001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -933,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/aso2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aso2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/aso2001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/aso2001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
