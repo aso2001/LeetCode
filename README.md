@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/aso2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/aso2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/aso2001/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aso2001/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aso2001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aso2001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/aso2001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
