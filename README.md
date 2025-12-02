@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/aso2001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/aso2001/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3886-count-number-of-trapezoids-i](https://github.com/aso2001/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -837,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aso2001/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/aso2001/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aso2001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3886-count-number-of-trapezoids-i](https://github.com/aso2001/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
 |  |
 | ------- |
@@ -919,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3830-find-closest-person](https://github.com/aso2001/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/aso2001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3886-count-number-of-trapezoids-i](https://github.com/aso2001/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1401,6 +1404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/aso2001/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aso2001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aso2001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3886-count-number-of-trapezoids-i](https://github.com/aso2001/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Game Theory
 |  |
 | ------- |
