@@ -883,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-calculate-money-in-leetcode-bank](https://github.com/aso2001/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aso2001/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aso2001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-count-square-sum-triples](https://github.com/aso2001/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/aso2001/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aso2001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aso2001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1385,6 +1386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/aso2001/LeetCode/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/aso2001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aso2001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-count-square-sum-triples](https://github.com/aso2001/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aso2001/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aso2001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aso2001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
