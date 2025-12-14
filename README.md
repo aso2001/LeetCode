@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/aso2001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aso2001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aso2001/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/aso2001/LeetCode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aso2001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2317-count-collisions-on-a-road](https://github.com/aso2001/LeetCode/tree/master/2317-count-collisions-on-a-road) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/aso2001/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/aso2001/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/aso2001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/aso2001/LeetCode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/aso2001/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aso2001/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aso2001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -901,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2174-next-greater-numerically-balanced-number](https://github.com/aso2001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aso2001/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aso2001/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/aso2001/LeetCode/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aso2001/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aso2001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aso2001/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
