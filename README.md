@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/aso2001/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/aso2001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/aso2001/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/aso2001/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Stack
 |  |
 | ------- |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/aso2001/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/aso2001/LeetCode/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/aso2001/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/aso2001/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/aso2001/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/aso2001/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Binary Indexed Tree
