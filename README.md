@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aso2001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/aso2001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aso2001/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3334-apple-redistribution-into-boxes](https://github.com/aso2001/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aso2001/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aso2001/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aso2001/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aso2001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aso2001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/aso2001/LeetCode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/aso2001/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aso2001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aso2001/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/aso2001/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/aso2001/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aso2001/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aso2001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3334-apple-redistribution-into-boxes](https://github.com/aso2001/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aso2001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aso2001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aso2001/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
