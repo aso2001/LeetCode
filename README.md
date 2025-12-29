@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/aso2001/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/aso2001/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0757-pyramid-transition-matrix](https://github.com/aso2001/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/aso2001/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aso2001/LeetCode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aso2001/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/aso2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/aso2001/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0679-24-game](https://github.com/aso2001/LeetCode/tree/master/0679-24-game) |
+| [0757-pyramid-transition-matrix](https://github.com/aso2001/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/aso2001/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aso2001/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aso2001/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -790,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/aso2001/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/aso2001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aso2001/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0757-pyramid-transition-matrix](https://github.com/aso2001/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/aso2001/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/aso2001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/aso2001/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -982,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/aso2001/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aso2001/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/aso2001/LeetCode/tree/master/0476-number-complement) |
+| [0757-pyramid-transition-matrix](https://github.com/aso2001/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aso2001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/aso2001/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
