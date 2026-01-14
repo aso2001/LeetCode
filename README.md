@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aso2001/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aso2001/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3763-separate-squares-i](https://github.com/aso2001/LeetCode/tree/master/3763-separate-squares-i) |
+| [3775-separate-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aso2001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aso2001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/aso2001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/aso2001/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aso2001/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/aso2001/LeetCode/tree/master/3763-separate-squares-i) |
+| [3775-separate-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/aso2001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/aso2001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/aso2001/LeetCode/tree/master/3827-implement-router) |
@@ -1355,6 +1357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aso2001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3775-separate-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aso2001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/aso2001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/aso2001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1528,4 +1531,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/aso2001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [3775-separate-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3775-separate-squares-ii) |
 <!---LeetCode Topics End-->
