@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aso2001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1284-four-divisors](https://github.com/aso2001/LeetCode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/aso2001/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1311-largest-magic-square](https://github.com/aso2001/LeetCode/tree/master/1311-largest-magic-square) |
 | [1325-path-with-maximum-probability](https://github.com/aso2001/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aso2001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aso2001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1208,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/aso2001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/aso2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1311-largest-magic-square](https://github.com/aso2001/LeetCode/tree/master/1311-largest-magic-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aso2001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1286,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1311-largest-magic-square](https://github.com/aso2001/LeetCode/tree/master/1311-largest-magic-square) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
