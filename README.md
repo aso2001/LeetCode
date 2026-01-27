@@ -625,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/aso2001/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/aso2001/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/aso2001/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/aso2001/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1172,6 +1173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2803-modify-graph-edge-weights](https://github.com/aso2001/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aso2001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aso2001/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/aso2001/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Union Find
 |  |
 | ------- |
@@ -1575,4 +1577,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3775-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/aso2001/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
