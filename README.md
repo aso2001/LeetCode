@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aso2001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/aso2001/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/aso2001/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aso2001/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aso2001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aso2001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aso2001/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aso2001/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/aso2001/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aso2001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aso2001/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aso2001/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aso2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/aso2001/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1173,6 +1175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aso2001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/aso2001/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aso2001/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aso2001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aso2001/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/aso2001/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -1583,5 +1586,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aso2001/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/aso2001/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
