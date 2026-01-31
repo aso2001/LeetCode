@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0717-1-bit-and-2-bit-characters](https://github.com/aso2001/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aso2001/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aso2001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/aso2001/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aso2001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/aso2001/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/aso2001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aso2001/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aso2001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aso2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/aso2001/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aso2001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
