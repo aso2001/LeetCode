@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/aso2001/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/aso2001/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/aso2001/LeetCode/tree/master/3934-coupon-code-validator) |
+| [3952-trionic-array-i](https://github.com/aso2001/LeetCode/tree/master/3952-trionic-array-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
