@@ -465,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/aso2001/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aso2001/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aso2001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-transformed-array](https://github.com/aso2001/LeetCode/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aso2001/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aso2001/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1118,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/aso2001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aso2001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aso2001/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3651-transformed-array](https://github.com/aso2001/LeetCode/tree/master/3651-transformed-array) |
 | [3721-count-mentions-per-user](https://github.com/aso2001/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aso2001/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/aso2001/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
