@@ -524,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aso2001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aso2001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aso2001/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aso2001/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/aso2001/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aso2001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aso2001/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aso2001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -655,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aso2001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aso2001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -796,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/aso2001/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/aso2001/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aso2001/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/aso2001/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/aso2001/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aso2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1146,6 +1150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/aso2001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aso2001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aso2001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -1533,6 +1538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Combinatorics
 |  |
