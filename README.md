@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3952-trionic-array-i](https://github.com/aso2001/LeetCode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/aso2001/LeetCode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/aso2001/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -964,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3886-count-number-of-trapezoids-i](https://github.com/aso2001/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/aso2001/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/aso2001/LeetCode/tree/master/3934-coupon-code-validator) |
+| [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -1382,6 +1384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aso2001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/aso2001/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/aso2001/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1429,6 +1432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aso2001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/aso2001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/aso2001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1540,6 +1544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Combinatorics
 |  |
 | ------- |
