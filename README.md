@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aso2001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/aso2001/LeetCode/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -971,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -1392,6 +1394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/aso2001/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Brainteaser
 |  |
 | ------- |
