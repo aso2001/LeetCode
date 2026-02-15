@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/aso2001/LeetCode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/aso2001/LeetCode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/aso2001/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aso2001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/aso2001/LeetCode/tree/master/0179-largest-number) |
@@ -977,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aso2001/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aso2001/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aso2001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/aso2001/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aso2001/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1072,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aso2001/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aso2001/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aso2001/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/aso2001/LeetCode/tree/master/0476-number-complement) |
@@ -1109,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aso2001/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/aso2001/LeetCode/tree/master/1642-water-bottles) |
