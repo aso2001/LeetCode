@@ -679,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/aso2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/aso2001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0401-binary-watch](https://github.com/aso2001/LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/aso2001/LeetCode/tree/master/0679-24-game) |
 | [0757-pyramid-transition-matrix](https://github.com/aso2001/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/aso2001/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -1078,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/aso2001/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/aso2001/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aso2001/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/aso2001/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/aso2001/LeetCode/tree/master/0476-number-complement) |
 | [0757-pyramid-transition-matrix](https://github.com/aso2001/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aso2001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
