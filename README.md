@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/aso2001/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aso2001/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/aso2001/LeetCode/tree/master/0757-pyramid-transition-matrix) |
+| [0763-special-binary-string](https://github.com/aso2001/LeetCode/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/aso2001/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aso2001/LeetCode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aso2001/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -734,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/aso2001/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aso2001/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/aso2001/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-special-binary-string](https://github.com/aso2001/LeetCode/tree/master/0763-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aso2001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/aso2001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/aso2001/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -1563,6 +1565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/aso2001/LeetCode/tree/master/0190-reverse-bits) |
+| [0763-special-binary-string](https://github.com/aso2001/LeetCode/tree/master/0763-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
