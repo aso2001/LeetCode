@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/aso2001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aso2001/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aso2001/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1524-string-matching-in-an-array](https://github.com/aso2001/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aso2001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aso2001/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1101,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/aso2001/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aso2001/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aso2001/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aso2001/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aso2001/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1134,6 +1136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/aso2001/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aso2001/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/aso2001/LeetCode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aso2001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/aso2001/LeetCode/tree/master/2048-build-array-from-permutation) |
