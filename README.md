@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aso2001/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aso2001/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aso2001/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aso2001/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/aso2001/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/aso2001/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aso2001/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1354,6 +1355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/aso2001/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/aso2001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aso2001/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aso2001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aso2001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aso2001/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1444,6 +1446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/aso2001/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aso2001/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/aso2001/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aso2001/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aso2001/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/aso2001/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/aso2001/LeetCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
