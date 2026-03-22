@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aso2001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aso2001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aso2001/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2023-design-movie-rental-system](https://github.com/aso2001/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/aso2001/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -1347,6 +1348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-special-positions-in-a-binary-matrix](https://github.com/aso2001/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/aso2001/LeetCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aso2001/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/aso2001/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aso2001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
