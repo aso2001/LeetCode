@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/aso2001/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aso2001/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/aso2001/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/aso2001/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/aso2001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aso2001/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/aso2001/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -1094,6 +1095,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/aso2001/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aso2001/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/aso2001/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/aso2001/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/aso2001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aso2001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aso2001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1202,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/aso2001/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aso2001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aso2001/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/aso2001/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/aso2001/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aso2001/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aso2001/LeetCode/tree/master/3447-clear-digits) |
@@ -1368,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/aso2001/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/aso2001/LeetCode/tree/master/3031-construct-product-matrix) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/aso2001/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/aso2001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aso2001/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aso2001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
