@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aso2001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aso2001/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aso2001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/aso2001/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/aso2001/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/aso2001/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/aso2001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/aso2001/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/aso2001/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/aso2001/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aso2001/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/aso2001/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/aso2001/LeetCode/tree/master/3721-count-mentions-per-user) |
@@ -1393,6 +1395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aso2001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aso2001/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aso2001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/aso2001/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/aso2001/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aso2001/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/aso2001/LeetCode/tree/master/3797-design-spreadsheet) |
