@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3889-minimum-cost-path-with-teleportations](https://github.com/aso2001/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/aso2001/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/aso2001/LeetCode/tree/master/3956-trionic-array-ii) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/aso2001/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
 | ------- |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3956-trionic-array-ii](https://github.com/aso2001/LeetCode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/aso2001/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/aso2001/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/aso2001/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3791-fruits-into-baskets-iii](https://github.com/aso2001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/aso2001/LeetCode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/aso2001/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/aso2001/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -843,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aso2001/LeetCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/aso2001/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/aso2001/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/aso2001/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
