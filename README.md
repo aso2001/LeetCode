@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/aso2001/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aso2001/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aso2001/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/aso2001/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aso2001/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aso2001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/aso2001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -1209,6 +1210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/aso2001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aso2001/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/aso2001/LeetCode/tree/master/2169-simple-bank-system) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/aso2001/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/aso2001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aso2001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aso2001/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
