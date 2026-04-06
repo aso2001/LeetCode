@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/aso2001/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/aso2001/LeetCode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aso2001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/aso2001/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aso2001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/aso2001/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -944,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aso2001/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/aso2001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aso2001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0906-walking-robot-simulation](https://github.com/aso2001/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aso2001/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/aso2001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/aso2001/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -1204,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/aso2001/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0906-walking-robot-simulation](https://github.com/aso2001/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aso2001/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/aso2001/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aso2001/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
