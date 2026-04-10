@@ -554,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3958-minimum-removals-to-balance-array](https://github.com/aso2001/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/aso2001/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/aso2001/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/aso2001/LeetCode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/aso2001/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1696,6 +1697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1285-balance-a-binary-search-tree](https://github.com/aso2001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/aso2001/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/aso2001/LeetCode/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Combinatorics
