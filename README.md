@@ -559,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/aso2001/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/aso2001/LeetCode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1053,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/aso2001/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/aso2001/LeetCode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
