@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aso2001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aso2001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aso2001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aso2001/LeetCode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aso2001/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aso2001/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/aso2001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/aso2001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/aso2001/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aso2001/LeetCode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1511-count-number-of-teams](https://github.com/aso2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/aso2001/LeetCode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/aso2001/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
