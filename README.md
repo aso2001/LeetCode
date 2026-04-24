@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aso2001/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aso2001/LeetCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aso2001/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3019-furthest-point-from-origin](https://github.com/aso2001/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/aso2001/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aso2001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/aso2001/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -1494,6 +1495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/aso2001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/aso2001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aso2001/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3019-furthest-point-from-origin](https://github.com/aso2001/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aso2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aso2001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aso2001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
