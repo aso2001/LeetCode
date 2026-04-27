@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/aso2001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aso2001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aso2001/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aso2001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/aso2001/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/aso2001/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -1307,6 +1308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/aso2001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/aso2001/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -1388,6 +1390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/aso2001/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/aso2001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/aso2001/LeetCode/tree/master/2035-count-sub-islands) |
@@ -1422,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aso2001/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aso2001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aso2001/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -1833,6 +1837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/aso2001/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/aso2001/LeetCode/tree/master/2708-find-the-string-with-lcp) |
