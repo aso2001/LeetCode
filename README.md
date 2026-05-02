@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/aso2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aso2001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aso2001/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0804-rotated-digits](https://github.com/aso2001/LeetCode/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/aso2001/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/aso2001/LeetCode/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/aso2001/LeetCode/tree/master/0826-soup-servings) |
@@ -1107,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/aso2001/LeetCode/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/aso2001/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/aso2001/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0804-rotated-digits](https://github.com/aso2001/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/aso2001/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/aso2001/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/aso2001/LeetCode/tree/master/0867-new-21-game) |
