@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/aso2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aso2001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/aso2001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/aso2001/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aso2001/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aso2001/LeetCode/tree/master/0075-sort-colors) |
@@ -1093,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aso2001/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aso2001/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aso2001/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aso2001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1419,6 +1421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/aso2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aso2001/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aso2001/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aso2001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/aso2001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/aso2001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
