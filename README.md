@@ -782,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aso2001/LeetCode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/aso2001/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aso2001/LeetCode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/aso2001/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/aso2001/LeetCode/tree/master/0567-permutation-in-string) |
@@ -1478,6 +1479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aso2001/LeetCode/tree/master/0061-rotate-list) |
 | [0432-all-oone-data-structure](https://github.com/aso2001/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/aso2001/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/aso2001/LeetCode/tree/master/0859-design-circular-deque) |
