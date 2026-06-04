@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3981-jump-game-ix](https://github.com/aso2001/LeetCode/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/aso2001/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/aso2001/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -1258,6 +1259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3897-count-number-of-trapezoids-ii](https://github.com/aso2001/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aso2001/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/aso2001/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/aso2001/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/aso2001/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/aso2001/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -1873,6 +1875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3849-equal-sum-grid-partition-i](https://github.com/aso2001/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/aso2001/LeetCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/aso2001/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Merge Sort
 |  |
 | ------- |
