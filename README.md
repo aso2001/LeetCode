@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/aso2001/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/aso2001/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1260,6 +1261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aso2001/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/aso2001/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/aso2001/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/aso2001/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/aso2001/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
