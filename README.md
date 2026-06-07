@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aso2001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aso2001/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aso2001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aso2001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aso2001/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aso2001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aso2001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aso2001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -792,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aso2001/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aso2001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aso2001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Data Stream
@@ -1081,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aso2001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aso2001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/aso2001/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aso2001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/aso2001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/aso2001/LeetCode/tree/master/2434-design-a-number-container-system) |
