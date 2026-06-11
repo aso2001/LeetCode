@@ -652,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aso2001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aso2001/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/aso2001/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/aso2001/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/aso2001/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Design
 |  |
@@ -1260,6 +1261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aso2001/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/aso2001/LeetCode/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3830-find-closest-person](https://github.com/aso2001/LeetCode/tree/master/3830-find-closest-person) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/aso2001/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/aso2001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/aso2001/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -1407,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aso2001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aso2001/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/aso2001/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/aso2001/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/aso2001/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/aso2001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Graph
