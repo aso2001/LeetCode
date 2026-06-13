@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/aso2001/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
+| [4216-weighted-word-mapping](https://github.com/aso2001/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/aso2001/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/aso2001/LeetCode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/aso2001/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4216-weighted-word-mapping](https://github.com/aso2001/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1378,6 +1380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3790-fruits-into-baskets-ii](https://github.com/aso2001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/aso2001/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/aso2001/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4216-weighted-word-mapping](https://github.com/aso2001/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Depth-First Search
 |  |
 | ------- |
