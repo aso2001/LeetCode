@@ -849,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/aso2001/LeetCode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aso2001/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aso2001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aso2001/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/aso2001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/aso2001/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aso2001/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1580,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/aso2001/LeetCode/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aso2001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/aso2001/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aso2001/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/aso2001/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/aso2001/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aso2001/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
