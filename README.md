@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3770-lexicographically-smallest-generated-string](https://github.com/aso2001/LeetCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3797-design-spreadsheet](https://github.com/aso2001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aso2001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3931-process-string-with-special-operations-i](https://github.com/aso2001/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/aso2001/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/aso2001/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
@@ -1382,6 +1383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/aso2001/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/aso2001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/aso2001/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3931-process-string-with-special-operations-i](https://github.com/aso2001/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/aso2001/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/aso2001/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Depth-First Search
