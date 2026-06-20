@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/aso2001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/aso2001/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aso2001/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1968-maximum-building-height](https://github.com/aso2001/LeetCode/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/aso2001/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/aso2001/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/aso2001/LeetCode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -897,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/aso2001/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/aso2001/LeetCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aso2001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1968-maximum-building-height](https://github.com/aso2001/LeetCode/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aso2001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aso2001/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1220,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/aso2001/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/aso2001/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aso2001/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1968-maximum-building-height](https://github.com/aso2001/LeetCode/tree/master/1968-maximum-building-height) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aso2001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/aso2001/LeetCode/tree/master/2037-count-square-sum-triples) |
