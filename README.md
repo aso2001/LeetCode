@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/aso2001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/aso2001/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aso2001/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1961-maximum-ice-cream-bars](https://github.com/aso2001/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/aso2001/LeetCode/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/aso2001/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/aso2001/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -898,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/aso2001/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/aso2001/LeetCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aso2001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1961-maximum-ice-cream-bars](https://github.com/aso2001/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/aso2001/LeetCode/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aso2001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -991,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1834-minimum-number-of-people-to-teach](https://github.com/aso2001/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/aso2001/LeetCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/aso2001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1961-maximum-ice-cream-bars](https://github.com/aso2001/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aso2001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/aso2001/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aso2001/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1978,4 +1981,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/aso2001/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/aso2001/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
