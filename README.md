@@ -628,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/aso2001/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/aso2001/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/aso2001/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/aso2001/LeetCode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/aso2001/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -1179,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/aso2001/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/aso2001/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/aso2001/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/aso2001/LeetCode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/aso2001/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
@@ -1708,6 +1710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/aso2001/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/aso2001/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1764,6 +1767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/aso2001/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/aso2001/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1886,6 +1890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4045-longest-balanced-subarray-i](https://github.com/aso2001/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/aso2001/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/aso2001/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/aso2001/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1934,6 +1939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/aso2001/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/aso2001/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Hash Function
 |  |
 | ------- |
