@@ -1452,6 +1452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aso2001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aso2001/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aso2001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/aso2001/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/aso2001/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/aso2001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/aso2001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1537,6 +1538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aso2001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aso2001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aso2001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/aso2001/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aso2001/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/aso2001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -2000,6 +2002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/aso2001/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aso2001/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/aso2001/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/aso2001/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -2016,6 +2019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/aso2001/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/aso2001/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2708-find-the-string-with-lcp](https://github.com/aso2001/LeetCode/tree/master/2708-find-the-string-with-lcp) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/aso2001/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
