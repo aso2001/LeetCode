@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/aso2001/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aso2001/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4216-weighted-word-mapping](https://github.com/aso2001/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -1320,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/aso2001/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aso2001/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aso2001/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/aso2001/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/aso2001/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -1741,6 +1743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4056-longest-balanced-substring-ii](https://github.com/aso2001/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/aso2001/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/aso2001/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aso2001/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
 |  |
 | ------- |
