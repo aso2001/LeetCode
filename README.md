@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3470-maximum-score-from-grid-operations](https://github.com/aso2001/LeetCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aso2001/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aso2001/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aso2001/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aso2001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aso2001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aso2001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aso2001/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/aso2001/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/aso2001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aso2001/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aso2001/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/aso2001/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aso2001/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1309,6 +1311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aso2001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aso2001/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/aso2001/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aso2001/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aso2001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aso2001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aso2001/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1659,6 +1662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aso2001/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aso2001/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/aso2001/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aso2001/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aso2001/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aso2001/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
