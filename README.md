@@ -1333,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3897-count-number-of-trapezoids-ii](https://github.com/aso2001/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aso2001/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/aso2001/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/aso2001/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/aso2001/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aso2001/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1665,6 +1666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aso2001/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aso2001/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aso2001/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/aso2001/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
