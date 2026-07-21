@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aso2001/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/aso2001/LeetCode/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3797-design-spreadsheet](https://github.com/aso2001/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/aso2001/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aso2001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/aso2001/LeetCode/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/aso2001/LeetCode/tree/master/3934-coupon-code-validator) |
@@ -1999,6 +2000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aso2001/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/aso2001/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aso2001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/aso2001/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/aso2001/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/aso2001/LeetCode/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/aso2001/LeetCode/tree/master/4055-longest-balanced-substring-i) |
