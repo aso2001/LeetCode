@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/aso2001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aso2001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/aso2001/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aso2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aso2001/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aso2001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3376-longest-common-suffix-queries](https://github.com/aso2001/LeetCode/tree/master/3376-longest-common-suffix-queries) |
@@ -989,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/aso2001/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aso2001/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aso2001/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aso2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aso2001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aso2001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aso2001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1084,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/aso2001/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aso2001/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/aso2001/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aso2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aso2001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/aso2001/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/aso2001/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -1196,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/aso2001/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aso2001/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aso2001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aso2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/aso2001/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/aso2001/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aso2001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1736,6 +1740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3019-furthest-point-from-origin](https://github.com/aso2001/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aso2001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aso2001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aso2001/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aso2001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aso2001/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aso2001/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
