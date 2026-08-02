@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/aso2001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aso2001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/aso2001/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/aso2001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/aso2001/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/aso2001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aso2001/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/aso2001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/aso2001/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/aso2001/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/aso2001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/aso2001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/aso2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/aso2001/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1265,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/aso2001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aso2001/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/aso2001/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/aso2001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/aso2001/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/aso2001/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1832,6 +1835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/aso2001/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/aso2001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aso2001/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/aso2001/LeetCode/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aso2001/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/aso2001/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aso2001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -2079,6 +2083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/aso2001/LeetCode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/aso2001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
