@@ -1,17 +1,12 @@
 class Solution:
-    def PredictTheWinner(self, nums: List[int]) -> bool:
-        n = len(nums)
-        memo = collections.defaultdict(int)
-        
-        def maxDiff(left, right):
-            if (left, right) in memo:
-                return memo[(left, right)]
-            if left == right:
-                return nums[left]
-            score_by_left = nums[left] - maxDiff(left + 1, right)
-            score_by_right = nums[right] - maxDiff(left, right - 1)
-            
-            memo[(left, right)] = max(score_by_left, score_by_right)
-            return memo[(left, right)]
-        
+    def predictTheWinner(self, A: List[int]) -> bool:
+        n = len(A)
+        if ~n & 1: return True
+
+        @cache
+        def maxDiff(i: int, j: int) -> int:
+            if i == j: return A[i]
+            return max(A[i] - maxDiff(i + 1, j),
+                       A[j] - maxDiff(i, j - 1))
+
         return maxDiff(0, n - 1) >= 0
