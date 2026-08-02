@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aso2001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aso2001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aso2001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-shift-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/aso2001/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/aso2001/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1440,6 +1441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/aso2001/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/aso2001/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/aso2001/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1386-shift-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aso2001/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/aso2001/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/aso2001/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1636,6 +1638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/aso2001/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1234-number-of-paths-with-max-score](https://github.com/aso2001/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1311-largest-magic-square](https://github.com/aso2001/LeetCode/tree/master/1311-largest-magic-square) |
+| [1386-shift-2d-grid](https://github.com/aso2001/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aso2001/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aso2001/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
