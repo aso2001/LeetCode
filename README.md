@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/aso2001/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/aso2001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/aso2001/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/aso2001/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aso2001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/aso2001/LeetCode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1222-remove-covered-intervals](https://github.com/aso2001/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aso2001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/aso2001/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/aso2001/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/aso2001/LeetCode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/aso2001/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -1296,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/aso2001/LeetCode/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/aso2001/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/aso2001/LeetCode/tree/master/1284-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/aso2001/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aso2001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1782,6 +1785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1311-largest-magic-square](https://github.com/aso2001/LeetCode/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aso2001/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aso2001/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -2104,6 +2108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/aso2001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/aso2001/LeetCode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/aso2001/LeetCode/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/aso2001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -2154,4 +2159,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/aso2001/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/aso2001/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
