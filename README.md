@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aso2001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2317-count-collisions-on-a-road](https://github.com/aso2001/LeetCode/tree/master/2317-count-collisions-on-a-road) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/aso2001/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aso2001/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aso2001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aso2001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aso2001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aso2001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/aso2001/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aso2001/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aso2001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/aso2001/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -1896,6 +1898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
 | [1728-fancy-sequence](https://github.com/aso2001/LeetCode/tree/master/1728-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/aso2001/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aso2001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/aso2001/LeetCode/tree/master/3435-block-placement-queries) |
 | [3775-separate-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3775-separate-squares-ii) |
@@ -1914,6 +1917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/aso2001/LeetCode/tree/master/0729-my-calendar-i) |
 | [2023-design-movie-rental-system](https://github.com/aso2001/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aso2001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/aso2001/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/aso2001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/aso2001/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/aso2001/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -2182,7 +2186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/aso2001/LeetCode/tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/aso2001/LeetCode/tree/master/1617-stone-game-iv) |
