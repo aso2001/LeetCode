@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aso2001/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aso2001/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aso2001/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aso2001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/aso2001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/aso2001/LeetCode/tree/master/2169-simple-bank-system) |
@@ -1080,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/aso2001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/aso2001/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aso2001/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aso2001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/aso2001/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aso2001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1337,6 +1339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-count-square-sum-triples](https://github.com/aso2001/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/aso2001/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aso2001/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aso2001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aso2001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/aso2001/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1771,6 +1774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aso2001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aso2001/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aso2001/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aso2001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aso2001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aso2001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -2128,6 +2132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/aso2001/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/aso2001/LeetCode/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/aso2001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
@@ -2182,16 +2187,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1617-stone-game-iv](https://github.com/aso2001/LeetCode/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/aso2001/LeetCode/tree/master/1240-stone-game-ii) |
 | [1617-stone-game-iv](https://github.com/aso2001/LeetCode/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/aso2001/LeetCode/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+| [2156-stone-game-ix](https://github.com/aso2001/LeetCode/tree/master/2156-stone-game-ix) |
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/aso2001/LeetCode/tree/master/1617-stone-game-iv) |
