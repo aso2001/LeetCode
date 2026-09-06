@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [4284-smallest-stable-index-i](https://github.com/aso2001/LeetCode/tree/master/4284-smallest-stable-index-i) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
