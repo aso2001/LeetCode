@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/aso2001/LeetCode/tree/master/0866-rectangle-overlap) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/aso2001/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -56,6 +57,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4284-smallest-stable-index-i](https://github.com/aso2001/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## String
 |  |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -100,4 +103,8 @@
 |  |
 | ------- |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
