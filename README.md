@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aso2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/aso2001/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aso2001/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -40,11 +41,13 @@
 ## Sorting
 |  |
 | ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/aso2001/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aso2001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/aso2001/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/aso2001/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/aso2001/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
