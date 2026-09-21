@@ -10,6 +10,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aso2001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aso2001/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/aso2001/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -56,6 +57,7 @@
 | [0866-rectangle-overlap](https://github.com/aso2001/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/aso2001/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [4245-count-commas-in-range](https://github.com/aso2001/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -80,6 +82,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 ## Tree
 |  |
 | ------- |
