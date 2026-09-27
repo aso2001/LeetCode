@@ -84,6 +84,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1188-brace-expansion-ii](https://github.com/aso2001/LeetCode/tree/master/1188-brace-expansion-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/aso2001/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/aso2001/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -157,4 +158,9 @@
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/aso2001/LeetCode/tree/master/1188-brace-expansion-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
