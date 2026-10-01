@@ -86,6 +86,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0977-distinct-subsequences-ii](https://github.com/aso2001/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/aso2001/LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aso2001/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0977-distinct-subsequences-ii](https://github.com/aso2001/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aso2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aso2001/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
