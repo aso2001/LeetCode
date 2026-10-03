@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aso2001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/aso2001/LeetCode/tree/master/0977-distinct-subsequences-ii) |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aso2001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/aso2001/LeetCode/tree/master/0977-distinct-subsequences-ii) |
@@ -163,6 +165,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aso2001/LeetCode/tree/master/0022-generate-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/aso2001/LeetCode/tree/master/1188-brace-expansion-ii) |
 ## Stack
 |  |
@@ -177,6 +180,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aso2001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aso2001/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
