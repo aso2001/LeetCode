@@ -1,18 +1,20 @@
 class Solution:
+    # 
+    # def generateParenthesis(self, n: int) -> List[str]:
+
+    #     res, tmp = {"()"}, set()
+    #     for _ in range(n - 1):
+    #         for p in res:
+    #             for i in range(len(p)):
+    #                 tmp.add(p[:i] + "()" + p[i:])
+    #             tmp.add("(" + p + ")")
+    #         res, tmp = tmp, set()
+    #     return res
+
+
+    # Recursive solution
     def generateParenthesis(self, n: int) -> List[str]:
 
-        res, tmp = {"()"}, set()
-        for _ in range(n - 1):
-            for p in res:
-                for i in range(len(p)):
-                    tmp.add(p[:i] + "()" + p[i:])
-                tmp.add("(" + p + ")")
-            res, tmp = tmp, set()
-        return res
-
-
-    def generateParenthesis2(self, n: int) -> List[str]:
-        # Recursive solution
         res = []
 
         def dfs(numO, numC, stack):
