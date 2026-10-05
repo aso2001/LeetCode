@@ -90,6 +90,7 @@
 | [0032-longest-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aso2001/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/aso2001/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0977-distinct-subsequences-ii](https://github.com/aso2001/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1188-brace-expansion-ii](https://github.com/aso2001/LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aso2001/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -176,6 +177,7 @@
 | [0020-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aso2001/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/aso2001/LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aso2001/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -187,6 +189,7 @@
 | [0022-generate-parentheses](https://github.com/aso2001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aso2001/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aso2001/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aso2001/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aso2001/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
