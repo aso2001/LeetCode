@@ -77,6 +77,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/aso2001/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/aso2001/LeetCode/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/aso2001/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/aso2001/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/aso2001/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
