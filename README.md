@@ -27,6 +27,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/aso2001/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/aso2001/LeetCode/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
@@ -76,6 +77,7 @@
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/aso2001/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [4245-count-commas-in-range](https://github.com/aso2001/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/aso2001/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
@@ -170,6 +173,7 @@
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/aso2001/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aso2001/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
