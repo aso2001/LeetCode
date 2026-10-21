@@ -135,6 +135,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/aso2001/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/aso2001/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/aso2001/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
