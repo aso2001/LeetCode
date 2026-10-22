@@ -26,6 +26,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/aso2001/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4184-minimum-operations-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/aso2001/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
