@@ -105,6 +105,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/aso2001/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2496-count-days-spent-together](https://github.com/aso2001/LeetCode/tree/master/2496-count-days-spent-together) |
 | [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/aso2001/LeetCode/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/aso2001/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -140,6 +141,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aso2001/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aso2001/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/aso2001/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2496-count-days-spent-together](https://github.com/aso2001/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/aso2001/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/aso2001/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
