@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/aso2001/LeetCode/tree/master/0864-image-overlap) |
+| [1380-number-of-closed-islands](https://github.com/aso2001/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aso2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aso2001/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -57,16 +58,19 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/aso2001/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/aso2001/LeetCode/tree/master/1188-brace-expansion-ii) |
+| [1380-number-of-closed-islands](https://github.com/aso2001/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/aso2001/LeetCode/tree/master/0864-image-overlap) |
+| [1380-number-of-closed-islands](https://github.com/aso2001/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aso2001/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/aso2001/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aso2001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
@@ -162,6 +166,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/aso2001/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/aso2001/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
