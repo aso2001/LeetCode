@@ -30,6 +30,7 @@
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/aso2001/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -54,6 +55,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aso2001/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
