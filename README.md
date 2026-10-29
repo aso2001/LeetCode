@@ -31,6 +31,7 @@
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/aso2001/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -56,6 +57,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/aso2001/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [2496-count-days-spent-together](https://github.com/aso2001/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/aso2001/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/aso2001/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -173,12 +176,14 @@
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/aso2001/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/aso2001/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/aso2001/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +236,7 @@
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/aso2001/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/aso2001/LeetCode/tree/master/3840-find-x-value-of-array-ii) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -275,10 +281,12 @@
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/aso2001/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
