@@ -153,6 +153,7 @@
 | [2496-count-days-spent-together](https://github.com/aso2001/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/aso2001/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/aso2001/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/aso2001/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -299,4 +301,12 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
