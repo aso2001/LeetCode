@@ -33,6 +33,7 @@
 | [3938-twisted-mirror-path-count](https://github.com/aso2001/LeetCode/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/aso2001/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/aso2001/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/aso2001/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
@@ -129,6 +130,7 @@
 | [3840-find-x-value-of-array-ii](https://github.com/aso2001/LeetCode/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/aso2001/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/aso2001/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/aso2001/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4245-count-commas-in-range](https://github.com/aso2001/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
