@@ -12,6 +12,7 @@
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/aso2001/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/aso2001/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2012-process-tasks-using-servers](https://github.com/aso2001/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/aso2001/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/aso2001/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aso2001/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
@@ -295,6 +296,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2012-process-tasks-using-servers](https://github.com/aso2001/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/aso2001/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aso2001/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
