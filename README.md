@@ -125,6 +125,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/aso2001/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/aso2001/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/aso2001/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/aso2001/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/aso2001/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/aso2001/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 | [4245-count-commas-in-range](https://github.com/aso2001/LeetCode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/aso2001/LeetCode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/aso2001/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
