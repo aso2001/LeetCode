@@ -25,6 +25,7 @@
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/aso2001/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aso2001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aso2001/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aso2001/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aso2001/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
