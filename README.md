@@ -183,6 +183,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/aso2001/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2496-count-days-spent-together](https://github.com/aso2001/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/aso2001/LeetCode/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aso2001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3811-reverse-degree-of-a-string](https://github.com/aso2001/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -202,6 +203,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aso2001/LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aso2001/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/aso2001/LeetCode/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aso2001/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/aso2001/LeetCode/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 ## Combinatorics
 |  |
 | ------- |
