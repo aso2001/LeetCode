@@ -20,6 +20,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/aso2001/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aso2001/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/aso2001/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/aso2001/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2833-count-zero-request-servers](https://github.com/aso2001/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/aso2001/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
@@ -109,6 +110,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/aso2001/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/aso2001/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/aso2001/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/aso2001/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2833-count-zero-request-servers](https://github.com/aso2001/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aso2001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -125,6 +127,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/aso2001/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/aso2001/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/aso2001/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/aso2001/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
