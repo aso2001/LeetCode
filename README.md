@@ -29,6 +29,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aso2001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aso2001/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/aso2001/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3644-minimum-positive-sum-subarray](https://github.com/aso2001/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aso2001/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aso2001/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -62,6 +63,7 @@
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aso2001/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/aso2001/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/aso2001/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aso2001/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aso2001/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/aso2001/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -188,6 +190,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aso2001/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/aso2001/LeetCode/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/aso2001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/aso2001/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3811-reverse-degree-of-a-string](https://github.com/aso2001/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
@@ -218,6 +221,7 @@
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aso2001/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/aso2001/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/aso2001/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -225,6 +229,7 @@
 | [1380-number-of-closed-islands](https://github.com/aso2001/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/aso2001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/aso2001/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/aso2001/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/aso2001/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
