@@ -35,6 +35,7 @@
 | [3702-maximum-subarray-with-equal-products](https://github.com/aso2001/LeetCode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aso2001/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/aso2001/LeetCode/tree/master/3742-maximum-number-of-items-from-sale-i) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/aso2001/LeetCode/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/aso2001/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/aso2001/LeetCode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3831-find-x-value-of-array-i](https://github.com/aso2001/LeetCode/tree/master/3831-find-x-value-of-array-i) |
@@ -121,6 +122,7 @@
 | [2833-count-zero-request-servers](https://github.com/aso2001/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aso2001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/aso2001/LeetCode/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/aso2001/LeetCode/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/aso2001/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4257-sum-of-sortable-integers](https://github.com/aso2001/LeetCode/tree/master/4257-sum-of-sortable-integers) |
@@ -137,6 +139,7 @@
 | [2706-minimum-score-by-changing-two-elements](https://github.com/aso2001/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/aso2001/LeetCode/tree/master/3742-maximum-number-of-items-from-sale-i) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/aso2001/LeetCode/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/aso2001/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/aso2001/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/aso2001/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
@@ -349,6 +352,7 @@
 | [2012-process-tasks-using-servers](https://github.com/aso2001/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/aso2001/LeetCode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aso2001/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/aso2001/LeetCode/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aso2001/LeetCode/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
